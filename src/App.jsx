@@ -23,7 +23,6 @@ function App() {
   return (
     <div className="App">
       <h1 className="findABook">Find a Book</h1>
-      {status}
       <input
         type="text"
         value={findBook}
